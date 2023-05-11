@@ -15,7 +15,7 @@
 [<img align="left" alt="ScottSatterfield | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
   
-[twitter]: https://twitter.com/ssatterf
-[youtube]: https://www.youtube.com/c/ssatterf
-[instagram]: https://www.instagram.com/ssatterf/
-[linkedin]: https://linkedin.com/in/ssatterf
+[twitter]: https://twitter.com/scottesatterfield
+[youtube]: https://www.youtube.com/c/scottesatterfield
+[instagram]: https://www.instagram.com/scottesatterfield/
+[linkedin]: https://linkedin.com/in/scottesatterfield
