@@ -1,4 +1,4 @@
-<h1>Hi, I'm Scott! <br/><a href="https://github.com/ssatterfi">QA Analyst</a>, <a href="https://www.linkedin.com/in/scott-satterfield-pcm/">Cybersecurity Professional</a>,  
+<h1>Hi, I'm Scott! <br/><a href="https://github.com/ssatterfi">QA Analyst</a>, <a href="https://www.linkedin.com/in/scott-satterfield-pcm/">Cybersecurity Professional</a>  
 
 <h2>👨‍💻 Professinal Projects:</h2>
 
