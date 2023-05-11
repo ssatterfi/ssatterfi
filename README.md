@@ -8,6 +8,7 @@
   
 - <b>Test Automation Frameworks</b>
   - [Practice creating a Selenium Hybrid Test Automation Framework in python and pytest](https://github.com/ssatterfi/SeleniumHybridFrameworkPython)
+  - [Practice with Selenium hub and Docker Compose](https://github.com/ssatterfi/-SeleniumDocker)
   
 - <b>Powershell & Bash Scripting</b>
   
