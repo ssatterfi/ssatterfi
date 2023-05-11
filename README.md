@@ -8,7 +8,7 @@
   
 - <b>Test Automation Frameworks</b>
   
-- <b>Test Automation Frameworks</b>
+- <b>Powershell & Bash Scripting</b>
   
   
   
