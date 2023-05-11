@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Azure/Cloud Projects (AlgoExpert)</b>
+- <b>Azure/Cloud Projects</b>
   - [Creation of a Live SOC/Honeynet in Microsoft Azure](https://github.com/ssatterfi/Cloud-Azure-SOC)
 
   
