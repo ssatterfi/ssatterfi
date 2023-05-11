@@ -7,7 +7,7 @@
 
   
 - <b>Test Automation Frameworks</b>
-    -[Practice creating Selenium Hybrid Test Automation Framework in python and pytest. (https://github.com/ssatterfi/SeleniumHybridFrameworkPython)
+    -[Practice creating Selenium Hybrid Test Automation Framework in python and pytest].(https://github.com/ssatterfi/SeleniumHybridFrameworkPython)
   
 - <b>Powershell & Bash Scripting</b>
   
