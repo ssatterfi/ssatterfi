@@ -7,7 +7,7 @@
   
 - <b>AWS/Cloud Projects</b>
   
-  - [CI/CD Pipeline in AWS](WIP)
+  - [CI/CD Pipeline in AWS(WIP)]
 
   
 - <b>Test Automation Frameworks</b>
