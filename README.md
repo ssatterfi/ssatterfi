@@ -7,7 +7,7 @@
   
 - <b>AWS/Cloud Projects</b>
   
-  - [CI/CD Pipeline in AWS(WIP)]
+  - [CI/CD Pipeline in AWS(WIP)](https://github.com/ssatterfi/AWS-DevOps-Lab)
 
   
 - <b>Test Automation Frameworks</b>
