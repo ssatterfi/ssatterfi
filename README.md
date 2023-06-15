@@ -6,6 +6,7 @@
   - [Creation of a Live SOC/Honeynet in Microsoft Azure](https://github.com/ssatterfi/Cloud-Azure-SOC)
   
 - <b>AWS/Cloud Projects</b>
+  
   -[CI/CD Pipeline in AWS](WIP)
 
   
